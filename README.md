@@ -12,7 +12,7 @@ La calificación se calcula automáticamente con base en la nota asignada por el
 ## Vista Previa 👀
 
 <div align="center">
-    <img src="view/cao01.jpg" width="202">
+    <img src="view/cap01.PNG" width="400">
 </div>
 
 ## Requisitos 📝
